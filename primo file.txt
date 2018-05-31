@@ -1,0 +1,4 @@
+Prima riga
+Prima riga feature
+Bug fix su 0.0.1
+Nuovo Bug fix su 0.0.1
