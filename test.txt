@@ -1,5 +1,4 @@
-test1 - 1
+﻿test1 - 1
 test1 - 2
 test1 - 6
-questo lo cancellerò
 questo invece no
